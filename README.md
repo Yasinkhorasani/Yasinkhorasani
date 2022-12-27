@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yasinkhorasani
+- 👋 Hi, I’m Yasin khorasani
 - 👀 I’m interested in java and Mysql
 - 🌱 I’m currently learning microservice and cloud
 - 💞️ I’m looking to collaborate as Java developer
